@@ -1,0 +1,10 @@
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard
+tqdm
+opencv-python
+trimesh
+jupyter
+lpips
